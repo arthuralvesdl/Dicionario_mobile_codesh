@@ -25,6 +25,8 @@ Habilite o modo de desenvolvedor e a depuração USB no seu dispositivo Android 
 No terminal, rode flutter devices para garantir que o dispositivo está sendo reconhecido.
 No terminal, rode flutter run para compilar e executar o aplicativo no dispositivo Android.
 
+![Screenshot_1736292676](https://github.com/user-attachments/assets/e8cfd0ac-9b76-4177-a2ad-87d2fe1ef226)
+
 # iOS
 Certifique-se de ter o Xcode instalado e configurado.
 Abra o projeto ios no Xcode (open ios/Runner.xcworkspace).
@@ -32,5 +34,7 @@ Certifique-se de que todas as configurações de assinatura (signing) estão cor
 Conecte seu dispositivo iOS ao computador via USB ou emulador.
 No terminal, rode flutter devices para garantir que o dispositivo está sendo reconhecido.
 No terminal, rode flutter run para compilar e executar o aplicativo no dispositivo iOS.
+
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-07 at 20 49 06](https://github.com/user-attachments/assets/9c18185d-a76c-4d4d-a282-f297b90160f7)
 
    
